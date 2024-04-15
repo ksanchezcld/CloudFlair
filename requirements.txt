@@ -4,3 +4,4 @@ requests==2.18.4
 html-similarity==0.3.2
 urllib3==1.22
 ipaddress==1.0.19
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
