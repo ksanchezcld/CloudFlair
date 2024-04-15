@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.16.9
 
 MAINTAINER Christophe Tafani-Dereeper <christophe@tafani-dereeper.me>
 
